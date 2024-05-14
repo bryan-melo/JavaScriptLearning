@@ -1,42 +1,43 @@
 # JavaScript RoadMap
 
 ### 1. Basic Concepts
-* Learn about variables, data types, operators, and basic syntax.
-* Understand control flow (if statements, loops).
-* Explore functions and how to define and call them.<br />
+* Variables, Data Types, Operators
+* Control Flow
+* Functions<br />
 
 ### 2. Intermediate Concepts
-* Dive into arrays and array methods (e.g., map, filter, reduce).
-* Learn about objects, properties, and methods
-* Understand how to work with JSON data.
-* Explore asynchronous JavaScript (callbacks, promises, async/await).<br />
+* Arrays and Array Methods
+* Object, Properties, and Methods
+* JSON (JavaScript Object Notation)
+* Asynchronous JavaScript (callbacks, promises, async/await)
+* Object-Oriented Programming (OOP) Concepts<br />
 
 ### 3. DOM Manipulation
-* Learn how to manipulate the Document Object Model (DOM) with JavaSctipt.
-* Understand how to select elements, modify content, and handle events.<br />
+* Manipulating the Document Object Model (DOM)
+* Selecting elements, modifying content, handling events<br />
 
 ### 4. ES6 + Features
-* Familiarize yourself with modern JavaScript features introduced in ECMAScript 6 and later (ES6+), such as arrow functions, classes, and destructing<br />
+* Arrow functions, Classes, Destructuring<br />
 
 ### 5. Asynchronous Programming
-* Dive deeper into asynchronous programming concepts and patterns.
-* Learn about fetching data from APIs using 'fetch' or other libraries.<br />
+* Deeper dive into Asynchronous Programming COncepts and Patterns
+* Fetching data from APIs using 'fetch' or other libraries<br />
 
 ### 6. Error Handling
-* Learn about handling errors in JavaScript, including try/catch blocks and error objects.<br />
+* Handling Errors in JavaScript, including try/catch blocks and error objects<br />
 
 ### 7. Modules
-* Undestand how to use modules to organize your code and work with dependencies.<br />
+* Using modules to organize code and work with dependencies<br />
 
 ### 8. Web APIs
-* Explore commonly used Web APIs, such as the Geolocation API, localStorage, and others.<br />
+* Exploring commonly used web APIs<br />
 
 ### 9. Frameworks and Libraries
-* Explore popular JavaScript libraries and frameworks such as React, Vue.js, or Angular.
-* Learn about Node.js for server-side JavaScript development.<br />
+* Exploring popular JavaScript libraries and frameworks
+* Introduction to Node.js for Server-side JavaScript Development<br />
 
 ### 10. Testing
-* Learn about testing frameworks like Jest or Mocha for testing your JavaScript code.<br />
+* Using testing frameworks like Jest or Mocha for testing JavaScript Code<br />
 
 ### 11. Continued Learning
-* Explore advanced topics like performance optimization, design patterns, and fucntional programming concepts
+* Advanced topics such as performance optimization, design patterns, functional programming concepts
