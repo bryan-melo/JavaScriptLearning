@@ -1,12 +1,12 @@
 # JavaScript RoadMap 
 
-Programming Language: JavaScript
+Programming Language: JavaScript<br />
 JS Engine: Node.js v20.13.1<br />
 
 ### 1. Basic Concepts
-i. Variables, Data Types, Operators
-ii. Control Flow
-iii. Functions<br />
+* Variables, Data Types, Operators
+* Control Flow
+* Functions<br />
 
 ### 2. Intermediate Concepts
 * Arrays and Array Methods
