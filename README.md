@@ -1,7 +1,7 @@
 # JavaScript RoadMap 
 
-Programming Language: JavaScript<br />
-JS Engine: Node.js v20.13.1<br />
+**Programming Language:** JavaScript<br />
+**JS Engine:** Node.js v20.13.1<br />
 
 ### 1. Basic Concepts
 * Variables, Data Types, Operators
