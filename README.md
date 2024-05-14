@@ -9,11 +9,11 @@
 * Functions<br />
 
 ### 2. Intermediate Concepts
-* Arrays and Array Methods
+* Data Structures
+* Algorithms
 * Object, Properties, and Methods
 * JSON (JavaScript Object Notation)
-* Asynchronous JavaScript (callbacks, promises, async/await)
-* Object-Oriented Programming (OOP) Concepts<br />
+* Asynchronous JavaScript (callbacks, promises, async/await)<br />
 
 ### 3. Programming Paradigms
 * Object Oriented Programming
