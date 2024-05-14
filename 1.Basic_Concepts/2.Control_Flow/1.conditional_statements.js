@@ -47,3 +47,9 @@ switch (day) {
   }
   
   console.log(dayName);
+
+  // Nullish Coalescing Operator ('??')
+  let value = null;
+  let result = value ?? 'default';
+
+  console.log(result);
